@@ -24,7 +24,7 @@ public class Worker {
     }
 
     public void setSalary (int salary) {
-        this.id = salary;
+        this.salary = salary;
     }
 
     //gender get set
